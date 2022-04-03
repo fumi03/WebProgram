@@ -1,0 +1,50 @@
+
+#flower{
+    background-image: url(flower.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#yellow{
+    text-align: center; 
+    height: 40px;
+    background-color: #feeab5;
+}
+#blue{
+    text-align: center;
+    color: #ffff;
+    height: 40px;
+    background-color: #062976;
+}
+#line{
+    float: left;
+    width: 80%;
+}
+#mark{
+    display: block;
+    margin: auto;
+    width:200px;
+}
+
+
+.th1{
+    width:50px;
+}
+
+table{
+    width: 600px;
+    height: 200px;
+}
+div {
+    font-family: "TimesNewRoman", "Malgun Gothic", "맑은고딕";
+    border:15px solid #dcecca;
+    width: 650px;
+    padding:10px;
+    padding-top: 25px;
+    background-image: url(flower2.png);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: left 400px bottom -80px;
+}
+h3{
+    text-align: center;
+}
