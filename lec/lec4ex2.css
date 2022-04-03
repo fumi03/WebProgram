@@ -1,0 +1,6 @@
+h3{color:rgb(104, 5, 82);background-color: #ffc3e4;}
+h3:after{content:"(❁´◡`❁)";font-size: 10pt;background-color: rgb(255, 138, 202);}
+#first{background-image:url(ex/flower.png);background-repeat: repeat-x;background-size: 20%;}
+#second{background-image:url(ex/flower.png);background-size: 20%;}
+#third{background-image:url(ex/flower.png);background-repeat: no-repeat; 
+    background-position: center bottom;}

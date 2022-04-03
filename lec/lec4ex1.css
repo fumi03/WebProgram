@@ -1,0 +1,9 @@
+p{font-size: 10pt;}
+.red1{color: red; font-style: italic;}
+strong.red1{font-size: 12pt;}
+#next{color:blue; text-align: center;}
+
+a:link{color:blue;}
+a:visited{color:green;}
+h3:before{content: "😊";}
+h3:after{content: "💜"; font-size: 10pt;}
