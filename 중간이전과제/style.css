@@ -5,14 +5,14 @@
     background-repeat: no-repeat;
 }
 #yellow{
-    text-align: center; 
-    height: 40px;
+    text-align: center;
+    height: 30px;
     background-color: #feeab5;
 }
 #blue{
     text-align: center;
     color: #ffff;
-    height: 40px;
+    height: 30px;
     background-color: #062976;
 }
 #line{
@@ -24,27 +24,77 @@
     margin: auto;
     width:200px;
 }
-
-
-.th1{
-    width:50px;
-}
-
-table{
+#table1{
     width: 600px;
     height: 200px;
 }
+#table2{
+    width: 600px;
+    height: 300px;
+}
+#ga{
+    height: 170px;
+}
+#na{
+    height: 500px;
+}
+#da{
+    height: 450px;
+}
+
+.th1{
+    background-color: #ffffff;
+}
+.icon{
+    width:50px;
+}
+.in{
+    text-indent: 30px;
+}
+.table3{
+    margin-left: 50px;
+    border-collapse: collapse;
+    width: 800px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.number{
+    width: 6%;
+}
+.second{
+    width: 17%;
+}
+.second2{
+    width: 70%;
+}
+body{
+    font-family: "Times New Roman", "맑은고딕", serif, sans-serif;
+}
 div {
-    font-family: "TimesNewRoman", "Malgun Gothic", "맑은고딕";
     border:15px solid #dcecca;
     width: 650px;
     padding:10px;
-    padding-top: 25px;
+    padding-top: 40px;
     background-image: url(flower2.png);
     background-size: 60%;
     background-repeat: no-repeat;
     background-position: left 400px bottom -80px;
 }
-h3{
+p{
+    margin-left: 20px;
+}
+h1{
+    text-shadow: 2px 2px 2px #434343;
     text-align: center;
+}
+h3{
+    margin: 40px;
+    margin-left: 50px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+th{
+    background-color: #d9d9d9;
 }
